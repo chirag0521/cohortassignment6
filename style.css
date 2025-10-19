@@ -11,7 +11,7 @@ html,body {
 #main{
     height: 100%;
     width: 100%;
-    background-color: rgb(255, 255, 255);
+    /* background-color: rgb(255, 255, 255); */
     padding: 20px;
     display: flex;
     gap: 20px;
@@ -60,4 +60,5 @@ html,body {
 
 .card:hover .bottom{
     bottom: 0%;
+
 }
