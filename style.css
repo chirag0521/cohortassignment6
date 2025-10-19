@@ -11,7 +11,7 @@ html,body {
 #main{
     height: 100%;
     width: 100%;
-    /* background-color: rgb(255, 255, 255); */
+    background-color: rgb(255, 255, 255);
     padding: 20px;
     display: flex;
     gap: 20px;
@@ -22,7 +22,7 @@ html,body {
 .card{
     height: 300px;
     width: 350px;
-    background-color: red;
+    /* background-color: red; */
     border-radius: 30px;
     position: relative;
     overflow: hidden;
@@ -62,3 +62,4 @@ html,body {
     bottom: 0%;
 
 }
+
